@@ -1,18 +1,17 @@
 # IBM Cloud :cloud: & Watson 
 
-# Mimmitkoodaa workshop: Lab 1 - Create your own classifier using Watson Visual Recognition API
+# Mimmitkoodaa workshop: Create your own classifier using Watson Visual Recognition API
 
 <!--- GIF & images
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 --->
  
 ## Introduction 
-In this guide, we will create our own custom classifier and a Node-RED application using Watson visual recognition on IBM Cloud. 
+In this guide, we will create our own custom classifier classifier using Watson Visual Recognition API on IBM Cloud.
 
 #### Prerequisites
 - Register on IBM Cloud at https://bluemix.net
 
-# Create a custom classifier using Watson Visual Recognition API in IBM Cloud
 
 ## Step 0. Explore: Visual Recognition Service
 The IBM Watson™ Visual Recognition service uses deep learning algorithms to analyze images (.jpg, or .png) for scenes, objects, faces, and other content, and return keywords that provide information about that content. You can also create custom collections of your own images, and then upload an image to search the collection for similar images. 
