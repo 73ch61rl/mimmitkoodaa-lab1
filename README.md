@@ -101,6 +101,7 @@ Let's create our own classifier by clicking in "Create Classifier".
 Once that's done download the training data located in the "training material" folder. Download the .zip files. As you can see we are going to train Watson to recognize Angry Birds characters. 
 
 Name your classifier for example "AngryBirds" and create three classes named "Red", "Blue" and "Yellow". For the negative class you can use the Pigs.zip file.
+Note that we are not recognizing colors, this is just the name of our category. 
 
 Drag and drop the .zip files into their correct classes. Once that's done press "Create" as shown in the next picture. 
 
@@ -118,4 +119,8 @@ Now drag and drop images to test how the classifier works.
  ![](/screenshots/Picture10b.png?raw=true) 
  
  
- Note: This example is using a very small amount of pictures so the results will not be too accurate. 
+ **Note: This example is using a very small amount of pictures so the results will not be too accurate. **
+ 
+The API will accept as few as 10 per class, in this example we used ~20 per category,  but we strongly recommend using a significantly greater amount of images to improve the performance and accuracy of your classifier such as 100s or 1000s of images.
+
+
