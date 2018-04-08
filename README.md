@@ -1,7 +1,7 @@
 # IBM Cloud :cloud: & Watson 
+## Mimmitkoodaa workshop
 
-# Mimmitkoodaa workshop
-# Create your own classifier using Watson Visual Recognition API
+# Create your own classifier using Watson Visual Recognition
 
 <!--- GIF & images
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
