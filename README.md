@@ -1,6 +1,7 @@
 # IBM Cloud :cloud: & Watson 
 
-# Mimmitkoodaa workshop: Create your own classifier using Watson Visual Recognition API
+# Mimmitkoodaa workshop
+# Create your own classifier using Watson Visual Recognition API
 
 <!--- GIF & images
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
@@ -119,7 +120,7 @@ Now drag and drop images to test how the classifier works.
  ![](/screenshots/Picture10b.png?raw=true) 
  
  
- **Note: This example is using a very small amount of pictures so the results will not be too accurate. **
+ **Note: This example is using a very small amount of pictures so the results will not be too accurate.**
  
 The API will accept as few as 10 per class, in this example we used ~20 per category,  but we strongly recommend using a significantly greater amount of images to improve the performance and accuracy of your classifier such as 100s or 1000s of images.
 
